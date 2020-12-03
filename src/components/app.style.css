@@ -1,0 +1,17 @@
+.watch{
+    text-align: center;
+    align-self: center;
+    border: 5px solid skyblue;   
+}
+.btn{
+    padding: 5px 20px;
+    margin: 6px;
+    border: 1px solid skyblue;
+}
+.text{
+ font-size: 5ch;
+}
+.timeShow h3{
+    text-align: center;
+    padding: 1ch;
+}
